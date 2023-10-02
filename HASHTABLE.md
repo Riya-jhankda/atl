@@ -7,3 +7,5 @@
 2848. Points That Intersect With Cars- https://leetcode.com/problems/points-that-intersect-with-cars/submissions/1060100503/
 
 1. Two Sum- https://leetcode.com/problems/two-sum/submissions/1059812146/
+
+383. Ransom Note- https://leetcode.com/problems/ransom-note/solutions/4121765/java-easy-solution/
