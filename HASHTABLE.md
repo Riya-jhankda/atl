@@ -13,3 +13,5 @@
 41. First Missing Positive- https://leetcode.com/problems/first-missing-positive/solutions/4122017/java-cyclic-sort-implementation-1-ms/
 
 380. Insert Delete GetRandom O(1)- https://leetcode.com/problems/insert-delete-getrandom-o1/solutions/4122093/java-set-implementation/
+
+Zero Sum Subarrays- https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1?page=1&difficulty[]=1&curated[]=1&sortBy=difficulty
