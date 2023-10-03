@@ -9,3 +9,5 @@
 1. Two Sum- https://leetcode.com/problems/two-sum/submissions/1059812146/
 
 383. Ransom Note- https://leetcode.com/problems/ransom-note/solutions/4121765/java-easy-solution/
+
+41. First Missing Positive- https://leetcode.com/problems/first-missing-positive/solutions/4122017/java-cyclic-sort-implementation-1-ms/
