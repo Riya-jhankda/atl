@@ -11,3 +11,5 @@
 383. Ransom Note- https://leetcode.com/problems/ransom-note/solutions/4121765/java-easy-solution/
 
 41. First Missing Positive- https://leetcode.com/problems/first-missing-positive/solutions/4122017/java-cyclic-sort-implementation-1-ms/
+
+380. Insert Delete GetRandom O(1)- https://leetcode.com/problems/insert-delete-getrandom-o1/solutions/4122093/java-set-implementation/
